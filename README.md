@@ -1,2 +1,2 @@
 To run the application:
-  npm start
+    npm start
