@@ -16,4 +16,4 @@ git clone  https://github.com/VenkataGovindMuthamsetty/AdaptNXT-Technology---Bac
 npm start
 ```
 
-Navigate to `http://localhost:5500`
+Navigate to `http://localhost:5500` in the browser.
